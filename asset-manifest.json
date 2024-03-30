@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LeffiFrutta/static/css/main.3c400861.css",
-    "main.js": "/LeffiFrutta/static/js/main.b43fbe9f.js",
+    "main.js": "/LeffiFrutta/static/js/main.b8876ff7.js",
     "static/media/top_image.jpg": "/LeffiFrutta/static/media/top_image.9225b0120dfd99f2331d.jpg",
     "static/media/newLogo.png": "/LeffiFrutta/static/media/newLogo.eb637f7fb05c2ee6a91b.png",
     "index.html": "/LeffiFrutta/index.html",
     "main.3c400861.css.map": "/LeffiFrutta/static/css/main.3c400861.css.map",
-    "main.b43fbe9f.js.map": "/LeffiFrutta/static/js/main.b43fbe9f.js.map"
+    "main.b8876ff7.js.map": "/LeffiFrutta/static/js/main.b8876ff7.js.map"
   },
   "entrypoints": [
     "static/css/main.3c400861.css",
-    "static/js/main.b43fbe9f.js"
+    "static/js/main.b8876ff7.js"
   ]
 }
