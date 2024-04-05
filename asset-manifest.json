@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/LeffiFrutta/static/css/main.440e2fed.css",
-    "main.js": "/LeffiFrutta/static/js/main.79498285.js",
+    "main.css": "/LeffiFrutta/static/css/main.f6a95eef.css",
+    "main.js": "/LeffiFrutta/static/js/main.f483aad5.js",
     "static/media/top_image.jpg": "/LeffiFrutta/static/media/top_image.9225b0120dfd99f2331d.jpg",
     "static/media/pexels-wendy-wei.jpg": "/LeffiFrutta/static/media/pexels-wendy-wei.a9b55d38e833ab160d9b.jpg",
     "static/media/newLogo.png": "/LeffiFrutta/static/media/newLogo.eb637f7fb05c2ee6a91b.png",
     "index.html": "/LeffiFrutta/index.html",
-    "main.440e2fed.css.map": "/LeffiFrutta/static/css/main.440e2fed.css.map",
-    "main.79498285.js.map": "/LeffiFrutta/static/js/main.79498285.js.map"
+    "main.f6a95eef.css.map": "/LeffiFrutta/static/css/main.f6a95eef.css.map",
+    "main.f483aad5.js.map": "/LeffiFrutta/static/js/main.f483aad5.js.map"
   },
   "entrypoints": [
-    "static/css/main.440e2fed.css",
-    "static/js/main.79498285.js"
+    "static/css/main.f6a95eef.css",
+    "static/js/main.f483aad5.js"
   ]
 }
